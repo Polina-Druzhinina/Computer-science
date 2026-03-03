@@ -1,0 +1,90 @@
+{
+    "python": [
+        {
+            "Date": "2026-02-24T00:00:00Z",
+            "Title": "Python⇒Speed: Unit testing your code's performance, part 2: Testing speed",
+            "Author": "Itamar Turner-Trauring",
+            "URL": "https://pythonspeed.com/articles/speed-unit-tests/"
+        },
+        {
+            "Date": "2026-02-24T07:10:51Z",
+            "Title": "Работа с объемными данными в Python для начинающих",
+            "Author": "kanasero",
+            "URL": "https://habr.com/ru/articles/1002874/#post-content-body"
+        },
+        {
+            "Date": "2026-02-24T12:30:01Z",
+            "Title": "(g+) Reporting, Datenmigration, Web-APIs: Excel-Dateien mit Python erstellen und verarbeiten",
+            "Author": "Michael Bröde",
+            "URL": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Freporting-datenmigration-web-apis-excel-dateien-mit-python-erstellen-und-verarbeiten-2602-205777.html&referer=https%3A%2F%2Ft.co%2Fccf28461eb"
+        },
+        {
+            "Date": "2026-02-24T13:56:05Z",
+            "Title": "The Python Coding Stack: “Python’s Plumbing” Is Not As Flashy as “Magic Methods” • But Is It Better?",
+            "Author": "Stephen Gruppetta",
+            "URL": "https://www.thepythoncodingstack.com/p/pythons-plumbing-is-not-as-flashy"
+        },
+        {
+            "Date": "2026-02-25T13:45:02Z",
+            "Title": "Python Type Checker Comparison: Empty Container Inference",
+            "Author": "Danny Yang, Jia Chen",
+            "URL": "https://pyrefly.org/blog/container-inference-comparison"
+        },
+        {
+            "Date": "2026-02-25T15:45:00Z",
+            "Title": "Python Morsels: Lexicographical ordering in Python",
+            "Author": "Trey Hunner",
+            "URL": "https://www.pythonmorsels.com/lexicographical-ordering/"
+        },
+        {
+            "Date": "2026-02-26T10:53:59Z",
+            "Title": "How to Apply the Builder Pattern in Python",
+            "Author": "Omozegie Aziegbe",
+            "URL": "https://www.javacodegeeks.com/how-to-apply-the-builder-pattern-in-python.html"
+        },
+        {
+            "Date": "2026-02-26T20:00:29Z",
+            "Title": "I built a full-stack Python app using only local LLMs and the Model Context Protocol (MCP)",
+            "Author": "Shekhar Vaidya",
+            "URL": "https://www.xda-developers.com/how-to-build-full-stack-python-app-using-only-local-llms-the-mcp/"
+        },
+        {
+            "Date": "2026-02-26T22:05:48Z",
+            "Title": "Cracking the Python Monorepo",
+            "Author": null,
+            "URL": "https://gafni.dev/blog/cracking-the-python-monorepo/"
+        },
+        {
+            "Date": "2026-02-27T19:56:42Z",
+            "Title": "EuroPython: Humans of EuroPython: Daksh P. Jain",
+            "Author": "Daria Linhart Grudzien",
+            "URL": "https://blog.europython.eu/humans-of-ep-daksh/"
+        },
+        {
+            "Date": "2026-02-28T07:10:43Z",
+            "Title": "Python уже не торт? Как и почему меняются приоритеты разработчиков",
+            "Author": "t3chnowolf (МТС)",
+            "URL": "https://habr.com/ru/companies/ru_mts/articles/1003638/#post-content-body"
+        },
+        {
+            "Date": "2026-02-28T21:28:36Z",
+            "Title": "Talk Python to Me: #538: Python in Digital Humanities",
+            "Author": "Michael Kennedy (@mkennedy)",
+            "URL": "https://talkpython.fm/episodes/show/538/python-in-digital-humanities"
+        }
+    ],
+    "c++": [
+        {
+            "Date": "2026-02-27T03:48:05Z",
+            "Title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
+            "Author": "Frikallo",
+            "URL": "https://github.com/Frikallo/parakeet.cpp"
+        },
+        {
+            "Date": "2026-03-01T09:27:34Z",
+            "Title": "Why is the first C++ (m)allocation always 72 KB?",
+            "Author": null,
+            "URL": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/"
+        }
+    ]
+}
